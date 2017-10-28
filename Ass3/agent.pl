@@ -1,8 +1,5 @@
 % COMP 9414 assignment3 option2 Prolog(BDI agent)
-% Students name: Bingxin Tong, Huimu Deng
-% Students znumber: z5093617, z3421860
-% hw3group : 72
-
+% written by Bianca Tong
 
 
 
