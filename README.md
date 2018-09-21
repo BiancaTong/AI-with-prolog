@@ -1,2 +1,1 @@
-# COMP9414
-2017 S1
+AI with Prolog
